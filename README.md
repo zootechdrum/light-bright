@@ -7,7 +7,7 @@
 4. CSS
 5. FreeCodeCamp
 
-## App should accomplish the followin user stories
+## App should accomplish the following user stories
 
 Rule #1: Don't look at the example project's code. Figure it out for yourself.
 
