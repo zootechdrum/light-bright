@@ -24,3 +24,6 @@ User Story: I should get a circle of different color on each click.
 User Story: I can click on the 'Reset' button to remove the recent color.
 
 User Story: I can click on the 'Reset All' button to remove all the colors from the circles.
+
+## Picture of working app
+![image of app](./img-of-app.png)
