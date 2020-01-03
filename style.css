@@ -1,0 +1,31 @@
+#app {
+  background: orange;
+  border-radius: 5px;
+}
+
+body {
+  background: black;
+}
+
+h1 {
+  font-family: 'Audiowide', cursive;
+  border-bottom: 4px solid black;
+  padding-bottom: 10px;
+}
+
+button {
+  margin-left: 30px;
+}
+
+.dot {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: red;
+  display: inline-block;
+  border: 1px solid black;
+}
+
+.circleColor {
+  background-color: black;
+}
