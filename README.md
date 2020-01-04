@@ -25,5 +25,9 @@ User Story: I can click on the 'Reset' button to remove the recent color.
 
 User Story: I can click on the 'Reset All' button to remove all the colors from the circles.
 
-## Picture of working app
-![image of app](./img-of-app.png)
+## Picture of working App
+![image of app](./img-of-workingApp.png)
+
+## GIf of working App
+
+![Gif of app](./light-bright-giphy.gif)
